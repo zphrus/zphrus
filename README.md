@@ -5,6 +5,5 @@ Feel free to contact me on discord: **zphr#0365**
 - **Languages**: C++, Lua, JS, Python
 - **Hobbies**: Programming, Music producing, video editing
 - **Pronouns**: He/They/Any ~ (Whatever you want to call me)
-- **Current project**: TF2 Internal
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zphrus&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zphrus&theme=radical&show_icons=true&hide_border=true&layout=compact" />
