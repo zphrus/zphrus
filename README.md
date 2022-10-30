@@ -1,7 +1,7 @@
 <h1 align="center">z p h r</h1>
 
 Feel free to contact me on discord: **zphr#0365**
-- Known as ChadAlphaMales.club / CAM.club ex-developer
+- Previously nnown as ChadAlphaMales.club / CAM.club ex-developer
 - **Languages**: C++, Lua, JS, Python
 - **Hobbies**: Programming, Music producing, Video editing
 - **Pronouns**: She/They/Any ~ (Whatever you want to call me)
