@@ -1,4 +1,11 @@
+<!-- 
+   Why hello there my fellow stalker
+   I hope you're not going to copy/paste my readme because how awesome it is
+-->
+
 <h1 align="center">z p h r</h1>
+
+<!-- I wish this was better smh... -->
 Profile views: <a href="#"><img align="center" src="https://komarev.com/ghpvc/?username=zphrus&style=flat-square&color=141321"></a>
 
 Feel free to contact me on discord: <a href="#"><img align="center" src="https://img.shields.io/badge/Discord-zphr%230365-f34b7d?logo=discord&logoColor=f34b7d&labelColor=141321&style=flat-square"></a>
